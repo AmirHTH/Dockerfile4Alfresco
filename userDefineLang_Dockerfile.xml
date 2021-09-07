@@ -27,7 +27,7 @@
             <Keywords name="Keywords1">FROM MAINTAINER ENV RUN CMD ADD EXPOSE COPY ENTRYPOINT VOLUME USER WORKDIR ONBUILD LABEL ARG STOPSIGNAL HEALTHCHECK SHELL AS</Keywords>
             <Keywords name="Keywords2">$ ${</Keywords>
             <Keywords name="Keywords3"> --home --shell -jar -directory -nobackup -force --disabled-password --no-check-certificate --recv-key --keyserver --strip-components --verify --platform --from --chown</Keywords>
-            <Keywords name="Keywords4">sed echo ln cd adduser Dockerfile java url gpg make test remove apt-get chmod useradd clean all lsof install update set wget unzip touch yum tar rm mv mkdir</Keywords>
+            <Keywords name="Keywords4">sed echo ln cd adduser Dockerfile java url gpg make test remove apt-get curl chmod useradd clean all lsof install update set wget unzip touch yum tar rm mv mkdir</Keywords>
             <Keywords name="Keywords5">CATALINA_HOME SOLR_HOME SOLR_DOWNLOAD_URL SOLR root alfresco TOMCAT_DIR DIST PATH JAVA JAVA_HOME ALF_HOME ALF_DOWNLOAD_URL ALF_DOWNLOAD</Keywords> 
             <Keywords name="Keywords6">\ >></Keywords>
             <Keywords name="Keywords7">telnet imap ldap svn cvs http ftp smtp quay.io alfresco/</Keywords>
