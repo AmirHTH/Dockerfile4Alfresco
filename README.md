@@ -18,3 +18,7 @@ Just drop the userDefineLang_Dockerfile_Alfresco.xml in your User Defined Langua
 
 **Your language is now enabled.**
 Check your Language menu, at bottom you will find it, it's called (Dockerfile Alfresco).
+
+### Direct to the _User Defined Language Folder_
+The folder is at: %appdata%\Notepad++\userDefineLangs   -->  <x>:\Users\<user>\AppData\Roaming\Notepad++\userDefineLangs
+  
