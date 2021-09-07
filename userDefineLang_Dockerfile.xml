@@ -30,7 +30,7 @@
             <Keywords name="Keywords4">sed echo ln cd adduser Dockerfile java url gpg make test remove apt-get chmod useradd clean all lsof install update set wget unzip touch yum tar rm mv mkdir</Keywords>
             <Keywords name="Keywords5">SOLR_HOME SOLR_DOWNLOAD_URL SOLR root alfresco TOMCAT_DIR DIST PATH JAVA JAVA_HOME ALF_HOME ALF_DOWNLOAD_URL ALF_DOWNLOAD</Keywords> 
             <Keywords name="Keywords6">\ >></Keywords>
-            <Keywords name="Keywords7">http ftp smtp quay.io alfresco/</Keywords>
+            <Keywords name="Keywords7">telnet imap ldap svn cvs http ftp smtp quay.io alfresco/</Keywords>
             <Keywords name="Keywords8">/usr/ /tmp/ /opt/ /etc/</Keywords>
             <Keywords name="Delimiters">00&quot; 00&apos; 01\ 02&quot; 02&apos; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
