@@ -1,7 +1,7 @@
 # Dockerfile4Alfresco 
 ### userDefineLang_Dockerfile_Alfresco.xml
 
-This is an _user defined language_ for notepad++ users who use Dockerfile, also contains some highlights for Alfresco keywords I use in my daily basis as configurations or URLs. 
+This is a _user defined language_ for notepad++ users who use Dockerfile, also contains some highlights for Alfresco keywords I use in my daily basis as configurations or URLs. 
 
 ## How to "install"
 
