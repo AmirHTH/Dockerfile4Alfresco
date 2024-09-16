@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <NotepadPlus>
     <UserLang name="Dockerfile Alfresco" ext="Dockerfile_Alfresco" udlVersion="2.1">
         <Settings>
@@ -26,39 +27,39 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">FROM MAINTAINER ENV RUN CMD ADD EXPOSE COPY ENTRYPOINT VOLUME USER WORKDIR ONBUILD LABEL ARG STOPSIGNAL HEALTHCHECK SHELL AS</Keywords>
             <Keywords name="Keywords2">$ ${</Keywords>
-            <Keywords name="Keywords3"> --home --shell -jar -directory -nobackup -force --disabled-password --no-check-certificate --recv-key --keyserver --strip-components --verify --platform --from --chown</Keywords>
-            <Keywords name="Keywords4">sed echo ln cd adduser Dockerfile java url gpg make test remove apt-get curl chmod useradd clean all lsof install update set wget unzip touch yum tar rm mv mkdir</Keywords>
-            <Keywords name="Keywords5">CATALINA_HOME SOLR_HOME SOLR_DOWNLOAD_URL SOLR root alfresco TOMCAT_DIR DIST PATH JAVA JAVA_HOME ALF_HOME ALF_DOWNLOAD_URL ALF_DOWNLOAD</Keywords> 
-            <Keywords name="Keywords6">\ >></Keywords>
+            <Keywords name="Keywords3">--home --shell -jar -directory -nobackup -force --disabled-password --no-check-certificate --recv-key --keyserver --strip-components --verify --platform --from --chown -r -R -rf -p -i</Keywords>
+            <Keywords name="Keywords4">sed echo ln cd adduser Dockerfile java url gpg make test remove apt-get curl chmod useradd clean all lsof install update set wget unzip touch yum tar rm mv chown mkdir</Keywords>
+            <Keywords name="Keywords5">CATALINA_HOME SOLR_HOME SOLR_DOWNLOAD_URL SOLR root Alfresco alfresco TOMCAT_DIR DIST PATH JAVA JAVA_HOME ALF_HOME ALF_DOWNLOAD_URL ALF_DOWNLOAD</Keywords>
+            <Keywords name="Keywords6">\ &gt;&gt;</Keywords>
             <Keywords name="Keywords7">telnet imap ldap svn cvs http ftp smtp quay.io alfresco/</Keywords>
-            <Keywords name="Keywords8">/usr/ /tmp/ /opt/ /etc/</Keywords>
+            <Keywords name="Keywords8">/usr/ /tmp/ /opt/ /etc/ /srv/</Keywords>
             <Keywords name="Delimiters">00&quot; 00&apos; 01\ 02&quot; 02&apos; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
-            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="NUMBERS" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS2" fgColor="FF8040" bgColor="FFFFD9" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS3" fgColor="008080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS4" fgColor="bb33dd" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS5" fgColor="cc0088" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="ff0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS7" fgColor="00aa00" bgColor="c0f5ae" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS8" fgColor="7000DD" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="OPERATORS" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="2048" />
-            <WordsStyle name="DELIMITERS2" fgColor="FF8040" bgColor="FFFFD9" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF0000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF8040" bgColor="FFFFD9" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="008080" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="BB33DD" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="CC0088" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FF0000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="00AA00" bgColor="C0F5AE" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="7000DD" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="800000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="808080" bgColor="FFFFFF" fontStyle="0" nesting="2048" />
+            <WordsStyle name="DELIMITERS2" fgColor="FF8040" bgColor="FFFFD9" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
         </Styles>
     </UserLang>
 </NotepadPlus>
